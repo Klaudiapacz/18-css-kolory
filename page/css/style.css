@@ -1,0 +1,21 @@
+article
+{
+    margin-right: 40%;
+    background-color: #faebd6;
+    height: 300px;
+}
+
+h1
+{
+    color: #ff0000;
+}
+
+p
+{
+    color: #a42423;
+}
+
+p + p
+{
+  color: #00008f;  
+}
